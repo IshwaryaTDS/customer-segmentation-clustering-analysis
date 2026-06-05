@@ -1,4 +1,5 @@
 # Customer Segmentation Using Clustering and Dimensionality Reduction
+"Completed a coursework project exploring customer segmentation using clustering techniques on a large e-commerce dataset."
 
 ## Project Overview
 
